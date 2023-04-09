@@ -1,0 +1,51 @@
+{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+	line-height: 1.5;
+}
+
+header {
+	background-color: #1c1c1c;
+	color: #fff;
+	padding: 40px;
+}
+
+nav ul {
+	list-style: none;
+	float: right;
+}
+
+nav li {
+	display: inline-block;
+	margin-left: 40px;
+}
+
+nav a {
+	color: #fff;
+	text-decoration: none;
+}
+
+nav a:hover {
+	color: #f2cf4a;
+}
+
+.hero-text {
+	margin-top: 150px;
+	text-align: center;
+}
+
+.highlight {
+	color: #f2cf4a;
+	font-family: 'Bebas Neue', cursive;
+	font-size: 3em;
+}
+
+.tagline {
+	font-size: 1.5em;
+	margin-top: 20px
